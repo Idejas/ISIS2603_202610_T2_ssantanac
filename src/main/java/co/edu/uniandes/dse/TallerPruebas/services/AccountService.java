@@ -19,7 +19,7 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Slf4j
 @Service
-public class Regla1 {
+public class AccountService {
 
     @Autowired
     private PocketRepository pocketRepository;

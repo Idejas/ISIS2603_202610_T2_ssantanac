@@ -17,7 +17,7 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Slf4j
 @Service
-public class Regla2 {
+public class TransactionService {
 
     @Autowired
     private AccountRepository accountRepository;
